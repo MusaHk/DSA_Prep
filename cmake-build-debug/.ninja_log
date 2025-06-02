@@ -1,7 +1,0 @@
-# ninja log v6
-489	611	7705787191592263	DSA_Prep.exe	694a84aaca86282f
-5	453	7705781304381090	CMakeFiles/DSA_Prep.dir/main.cpp.obj	94f2a7b041b535a9
-6	489	7705787186756213	CMakeFiles/DSA_Prep.dir/src/LinkedList.cpp.obj	53d770ea1f7b8c9e
-12	511	7705780799215320	CMakeFiles/DSA_Prep.dir/LinkedList.cpp.obj	626beeea98f3c629
-1	471	7705787186705465	CMakeFiles/DSA_Prep.dir/src/main.cpp.obj	b8d4e01834fc1171
-2	240	7705912277245824	build.ninja	bb4f1edb3459f3b3
